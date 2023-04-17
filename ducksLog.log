@@ -1,0 +1,1857 @@
+2023-04-17 03:28:59 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 03:29:04 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 03:29:05 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 03:29:05 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 03:29:08 Thread: [main] INFO [tests.LoginTest] invalidLoginTest
+2023-04-17 03:29:08 Thread: [main] INFO [pages.LoginPage] start filling with test@mail.com
+2023-04-17 03:29:09 Thread: [main] INFO [pages.LoginPage] start filling with sdf325fhg
+2023-04-17 03:29:09 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 03:29:12 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 03:29:12 Thread: [main] INFO [pages.LoginPage] message: Wrong password or the account is disabled, or does not exist
+2023-04-17 03:29:12 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 03:29:13 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 03:29:13 Thread: [main] INFO [tests.LoginTest] validLoginTest
+2023-04-17 03:29:13 Thread: [main] INFO [pages.LoginPage] start filling with michal.rzavucki@gmail.com
+2023-04-17 03:29:14 Thread: [main] INFO [pages.LoginPage] start filling with 30203050
+2023-04-17 03:29:14 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 03:29:15 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 03:29:15 Thread: [main] INFO [pages.LoginPage] message: You are now logged in as Michal Rzavucki.
+2023-04-17 03:29:15 Thread: [main] INFO [tests.BaseTest] Tests ended
+2023-04-17 04:05:41 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 04:06:05 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 04:06:05 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 04:06:05 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 04:06:12 Thread: [main] INFO [tests.LoginTest] invalidLoginTest
+2023-04-17 04:06:12 Thread: [main] INFO [pages.LoginPage] start filling with test@mail.com
+2023-04-17 04:06:15 Thread: [main] INFO [pages.LoginPage] start filling with sdf325fhg
+2023-04-17 04:06:16 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 04:06:21 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 04:06:21 Thread: [main] INFO [pages.LoginPage] message: Wrong password or the account is disabled, or does not exist
+2023-04-17 04:06:21 Thread: [main] INFO [tests.BaseTest] Tests ended
+2023-04-17 04:08:05 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 04:08:19 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 04:08:19 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 04:08:19 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 04:08:22 Thread: [main] INFO [tests.LoginTest] invalidLoginTest
+2023-04-17 04:08:22 Thread: [main] INFO [pages.LoginPage] start filling with test@mail.com
+2023-04-17 04:08:23 Thread: [main] INFO [pages.LoginPage] start filling with sdf325fhg
+2023-04-17 04:08:23 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 04:08:27 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 04:08:27 Thread: [main] INFO [pages.LoginPage] message: Wrong password or the account is disabled, or does not exist
+2023-04-17 04:08:28 Thread: [main] INFO [tests.BaseTest] Tests ended
+2023-04-17 04:09:20 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 04:09:25 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 04:09:26 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 04:09:28 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 04:09:31 Thread: [main] INFO [tests.LoginTest] invalidLoginTest
+2023-04-17 04:09:31 Thread: [main] INFO [pages.LoginPage] start filling with test@mail.com
+2023-04-17 04:09:31 Thread: [main] INFO [pages.LoginPage] start filling with sdf325fhg
+2023-04-17 04:09:31 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 04:09:34 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 04:09:34 Thread: [main] INFO [pages.LoginPage] message: Wrong password or the account is disabled, or does not exist
+2023-04-17 04:09:35 Thread: [main] INFO [tests.BaseTest] Tests ended
+2023-04-17 04:09:58 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 04:10:03 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 04:10:03 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 04:10:04 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 04:10:06 Thread: [main] INFO [tests.LoginTest] invalidLoginTest
+2023-04-17 04:10:06 Thread: [main] INFO [pages.LoginPage] start filling with test@mail.com
+2023-04-17 04:10:06 Thread: [main] INFO [pages.LoginPage] start filling with sdf325fhg
+2023-04-17 04:10:06 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 04:10:10 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 04:10:10 Thread: [main] INFO [pages.LoginPage] message: Wrong password or the account is disabled, or does not exist
+2023-04-17 04:10:10 Thread: [main] INFO [tests.BaseTest] Tests ended
+2023-04-17 04:14:20 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 04:14:25 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 04:14:25 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 04:14:26 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 04:14:29 Thread: [main] INFO [tests.LoginTest] invalidLoginTest
+2023-04-17 04:14:29 Thread: [main] INFO [pages.LoginPage] start filling with test@mail.com
+2023-04-17 04:14:29 Thread: [main] INFO [pages.LoginPage] start filling with sdf325fhg
+2023-04-17 04:14:29 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 04:14:33 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 04:14:33 Thread: [main] INFO [pages.LoginPage] message: Wrong password or the account is disabled, or does not exist
+2023-04-17 04:14:33 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 04:14:34 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 04:14:34 Thread: [main] INFO [tests.LoginTest] validLoginTest
+2023-04-17 04:14:34 Thread: [main] INFO [pages.LoginPage] start filling with michal.rzavucki@gmail.com
+2023-04-17 04:14:34 Thread: [main] INFO [pages.LoginPage] start filling with 30203050
+2023-04-17 04:14:35 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 04:14:35 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 04:14:35 Thread: [main] INFO [pages.LoginPage] message: You are now logged in as Michal Rzavucki.
+2023-04-17 04:14:36 Thread: [main] INFO [tests.BaseTest] Tests ended
+2023-04-17 14:15:16 Thread: [main] INFO [tests.Listener] On start
+2023-04-17 14:15:16 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 14:15:37 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 14:15:37 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 14:15:37 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 14:15:41 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 14:15:41 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 14:15:42 Thread: [main] INFO [tests.LoginTest] invalidLoginTest
+2023-04-17 14:15:42 Thread: [main] INFO [pages.LoginPage] start filling with test@mail.com
+2023-04-17 14:15:44 Thread: [main] INFO [pages.LoginPage] start filling with sdf325fhg
+2023-04-17 14:15:44 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 14:15:47 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 14:15:47 Thread: [main] INFO [pages.LoginPage] message: Wrong password or the account is disabled, or does not exist
+2023-04-17 14:15:47 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 14:15:48 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 14:15:48 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 14:15:49 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 14:15:50 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 14:15:50 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 14:15:50 Thread: [main] INFO [tests.LoginTest] validLoginTest
+2023-04-17 14:15:50 Thread: [main] INFO [pages.LoginPage] start filling with michal.rzavucki@gmail.com
+2023-04-17 14:15:51 Thread: [main] INFO [pages.LoginPage] start filling with 30203050
+2023-04-17 14:15:51 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 14:15:51 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 14:15:51 Thread: [main] INFO [pages.LoginPage] message: You are now logged in as Michal Rzavucki.
+2023-04-17 14:15:52 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 14:15:52 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 14:15:52 Thread: [main] INFO [tests.BaseTest] Tests ended
+2023-04-17 14:15:54 Thread: [main] INFO [tests.Listener] On finish
+2023-04-17 14:18:20 Thread: [main] INFO [tests.Listener] On start
+2023-04-17 14:18:20 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 14:18:25 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 14:18:25 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 14:18:26 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 14:18:29 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 14:18:29 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 14:18:29 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681730309601.png
+2023-04-17 14:18:29 Thread: [main] INFO [tests.LoginTest] invalidLoginTest
+2023-04-17 14:18:29 Thread: [main] INFO [pages.LoginPage] start filling with test@mail.com
+2023-04-17 14:18:30 Thread: [main] INFO [pages.LoginPage] start filling with sdf325fhg
+2023-04-17 14:18:30 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 14:18:33 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 14:18:33 Thread: [main] INFO [pages.LoginPage] message: Wrong password or the account is disabled, or does not exist
+2023-04-17 14:18:33 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 14:18:33 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681730313919.png
+2023-04-17 14:18:33 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 14:18:33 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 14:18:34 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 14:18:34 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 14:18:34 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 14:18:35 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681730315108.png
+2023-04-17 14:18:35 Thread: [main] INFO [tests.LoginTest] validLoginTest
+2023-04-17 14:18:35 Thread: [main] INFO [pages.LoginPage] start filling with michal.rzavucki@gmail.com
+2023-04-17 14:18:35 Thread: [main] INFO [pages.LoginPage] start filling with 30203050
+2023-04-17 14:18:35 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 14:18:35 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 14:18:36 Thread: [main] INFO [pages.LoginPage] message: You are now logged in as Michal Rzavucki.
+2023-04-17 14:18:36 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 14:18:36 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681730316418.png
+2023-04-17 14:18:36 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 14:18:36 Thread: [main] INFO [tests.BaseTest] Tests ended
+2023-04-17 14:18:36 Thread: [main] INFO [tests.Listener] On finish
+2023-04-17 14:33:38 Thread: [main] INFO [tests.Listener] On start
+2023-04-17 14:33:38 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 14:33:53 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 14:33:53 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 14:33:53 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 14:33:53 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 14:33:54 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681731234290.png
+2023-04-17 14:33:54 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 14:33:54 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 14:33:54 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681731234473.png
+2023-04-17 14:33:54 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 14:33:54 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 14:33:54 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 14:33:54 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681731234628.png
+2023-04-17 14:33:54 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 14:33:54 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 14:33:54 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681731234807.png
+2023-04-17 14:33:54 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 14:33:54 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 14:33:55 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681731235024.png
+2023-04-17 14:33:55 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 14:33:55 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 14:33:55 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681731235221.png
+2023-04-17 14:33:55 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 14:33:55 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 14:33:55 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681731235447.png
+2023-04-17 14:33:55 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 14:33:55 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 14:33:55 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681731235629.png
+2023-04-17 14:33:55 Thread: [main] INFO [tests.Listener] On finish
+2023-04-17 14:36:43 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 14:36:55 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 14:36:55 Thread: [main] INFO [tests.Listener] On start
+2023-04-17 14:36:56 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 14:36:56 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 14:36:56 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 14:36:56 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681731416325.png
+2023-04-17 14:36:56 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 14:36:56 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 14:36:56 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681731416496.png
+2023-04-17 14:36:56 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 14:36:56 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 14:36:56 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 14:36:56 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681731416705.png
+2023-04-17 14:36:56 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 14:36:56 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 14:36:56 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681731416935.png
+2023-04-17 14:36:56 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 14:36:56 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 14:36:57 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681731417091.png
+2023-04-17 14:36:57 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 14:36:57 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 14:36:57 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681731417338.png
+2023-04-17 14:36:57 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 14:36:57 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 14:36:57 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681731417503.png
+2023-04-17 14:36:57 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 14:36:57 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 14:36:58 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681731418030.png
+2023-04-17 14:36:58 Thread: [main] INFO [tests.Listener] On finish
+2023-04-17 15:10:24 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 15:10:43 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 15:10:43 Thread: [main] INFO [tests.Listener] On start
+2023-04-17 15:10:43 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:10:43 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:10:43 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:10:43 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733443420.png
+2023-04-17 15:10:43 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:10:43 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:10:43 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733443602.png
+2023-04-17 15:10:43 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:10:43 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:10:43 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:10:43 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733443760.png
+2023-04-17 15:10:43 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:10:43 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:10:43 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733443931.png
+2023-04-17 15:10:43 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:10:43 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:10:44 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733444141.png
+2023-04-17 15:10:44 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:10:44 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:10:44 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733444307.png
+2023-04-17 15:10:44 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:10:44 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:10:44 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733444543.png
+2023-04-17 15:10:44 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:10:44 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:10:45 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733445115.png
+2023-04-17 15:10:45 Thread: [main] INFO [tests.Listener] On finish
+2023-04-17 15:11:23 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 15:11:37 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 15:11:37 Thread: [main] INFO [tests.Listener] On start
+2023-04-17 15:11:37 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:11:37 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:11:37 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:11:37 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733497442.png
+2023-04-17 15:11:37 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:11:37 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:11:37 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733497604.png
+2023-04-17 15:11:37 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:11:37 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:11:37 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:11:37 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733497785.png
+2023-04-17 15:11:37 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:11:37 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:11:37 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733497944.png
+2023-04-17 15:11:37 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:11:37 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:11:38 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733498079.png
+2023-04-17 15:11:38 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:11:38 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:11:38 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733498200.png
+2023-04-17 15:11:38 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:11:38 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:11:38 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733498360.png
+2023-04-17 15:11:38 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:11:38 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:11:38 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733498488.png
+2023-04-17 15:11:38 Thread: [main] INFO [tests.Listener] On finish
+2023-04-17 15:12:35 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 15:12:49 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 15:12:49 Thread: [main] INFO [tests.Listener] On start
+2023-04-17 15:12:49 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:12:49 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:12:49 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:12:50 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733570189.png
+2023-04-17 15:12:50 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:12:50 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:12:50 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733570369.png
+2023-04-17 15:12:50 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:12:50 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:12:50 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:12:50 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733570564.png
+2023-04-17 15:12:50 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:12:50 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:12:50 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733570772.png
+2023-04-17 15:12:50 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:12:50 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:12:50 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733570935.png
+2023-04-17 15:12:50 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:12:50 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:12:51 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733571104.png
+2023-04-17 15:12:51 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:12:51 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:12:51 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733571311.png
+2023-04-17 15:12:51 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:12:51 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:12:51 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733571551.png
+2023-04-17 15:12:51 Thread: [main] INFO [tests.Listener] On finish
+2023-04-17 15:13:54 Thread: [main] INFO [tests.Listener] On start
+2023-04-17 15:13:54 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 15:14:08 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 15:14:08 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:14:08 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:14:08 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:14:09 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733649216.png
+2023-04-17 15:14:09 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:14:09 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:14:09 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733649435.png
+2023-04-17 15:14:09 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:14:09 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:14:09 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:14:09 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733649592.png
+2023-04-17 15:14:09 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:14:09 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:14:09 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733649784.png
+2023-04-17 15:14:09 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:14:09 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:14:09 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733649962.png
+2023-04-17 15:14:09 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:14:09 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:14:10 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733650214.png
+2023-04-17 15:14:10 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:14:10 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:14:10 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733650409.png
+2023-04-17 15:14:10 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:14:10 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:14:10 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733650849.png
+2023-04-17 15:14:11 Thread: [main] INFO [tests.Listener] On finish
+2023-04-17 15:14:55 Thread: [main] INFO [tests.Listener] On start
+2023-04-17 15:14:55 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 15:15:01 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 15:15:01 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:15:01 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:15:01 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:15:02 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733702577.png
+2023-04-17 15:15:02 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:15:02 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:15:02 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733702916.png
+2023-04-17 15:15:02 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:15:02 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:15:02 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:15:03 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733703195.png
+2023-04-17 15:15:03 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:15:03 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:15:03 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733703392.png
+2023-04-17 15:15:03 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:15:03 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:15:03 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733703548.png
+2023-04-17 15:15:03 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:15:03 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:15:03 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733703709.png
+2023-04-17 15:15:03 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:15:03 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:15:03 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733703902.png
+2023-04-17 15:15:03 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:15:03 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:15:04 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733704055.png
+2023-04-17 15:15:04 Thread: [main] INFO [tests.Listener] On finish
+2023-04-17 15:19:05 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 15:19:23 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 15:19:23 Thread: [main] INFO [tests.Listener] On start
+2023-04-17 15:19:23 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:19:23 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:19:26 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:19:26 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:19:26 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733966836.png
+2023-04-17 15:19:26 Thread: [main] INFO [tests.LoginTest] invalidLoginTest
+2023-04-17 15:19:26 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:19:27 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733967138.png
+2023-04-17 15:19:27 Thread: [main] INFO [tests.Listener] Test failed
+2023-04-17 15:19:27 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:19:27 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:19:28 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:19:28 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:19:28 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733968454.png
+2023-04-17 15:19:28 Thread: [main] INFO [tests.LoginTest] validLoginTest
+2023-04-17 15:19:28 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:19:28 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733968702.png
+2023-04-17 15:19:28 Thread: [main] INFO [tests.Listener] Test failed
+2023-04-17 15:19:28 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:19:29 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:19:29 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:19:29 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:19:30 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733970038.png
+2023-04-17 15:19:30 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:19:30 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733970726.png
+2023-04-17 15:19:30 Thread: [main] INFO [tests.Listener] Test failed
+2023-04-17 15:19:30 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:19:31 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:19:31 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:19:31 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:19:32 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733972071.png
+2023-04-17 15:19:32 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:19:32 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733972458.png
+2023-04-17 15:19:32 Thread: [main] INFO [tests.Listener] Test failed
+2023-04-17 15:19:32 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:19:33 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:19:33 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:19:33 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:19:33 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733973920.png
+2023-04-17 15:19:33 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:19:34 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733974282.png
+2023-04-17 15:19:34 Thread: [main] INFO [tests.Listener] Test failed
+2023-04-17 15:19:34 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:19:35 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:19:35 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:19:35 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:19:35 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733975663.png
+2023-04-17 15:19:35 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:19:36 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733976001.png
+2023-04-17 15:19:36 Thread: [main] INFO [tests.Listener] Test failed
+2023-04-17 15:19:36 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:19:36 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:19:37 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:19:37 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:19:37 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733977577.png
+2023-04-17 15:19:37 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:19:37 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733977979.png
+2023-04-17 15:19:37 Thread: [main] INFO [tests.Listener] Test failed
+2023-04-17 15:19:37 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:19:38 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:19:38 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:19:38 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:19:39 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733979164.png
+2023-04-17 15:19:39 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:19:39 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681733979487.png
+2023-04-17 15:19:39 Thread: [main] INFO [tests.Listener] Test failed
+2023-04-17 15:19:39 Thread: [main] INFO [tests.BaseTest] Tests ended
+2023-04-17 15:19:39 Thread: [main] INFO [tests.Listener] On finish
+2023-04-17 15:23:09 Thread: [main] INFO [tests.Listener] On start
+2023-04-17 15:23:09 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 15:23:15 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 15:23:15 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:23:18 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:23:20 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:23:20 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:23:21 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734201121.png
+2023-04-17 15:23:21 Thread: [main] INFO [tests.LoginTest] invalidLoginTest
+2023-04-17 15:23:21 Thread: [main] INFO [pages.LoginPage] start filling with test@mail.com
+2023-04-17 15:23:21 Thread: [main] INFO [pages.LoginPage] start filling with sdf325fhg
+2023-04-17 15:23:21 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 15:23:25 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 15:23:25 Thread: [main] INFO [pages.LoginPage] message: Wrong password or the account is disabled, or does not exist
+2023-04-17 15:23:25 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:23:25 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734205754.png
+2023-04-17 15:23:25 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:23:25 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:23:26 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:23:26 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:23:26 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:23:27 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734207056.png
+2023-04-17 15:23:27 Thread: [main] INFO [tests.LoginTest] validLoginTest
+2023-04-17 15:23:27 Thread: [main] INFO [pages.LoginPage] start filling with michal.rzavucki@gmail.com
+2023-04-17 15:23:27 Thread: [main] INFO [pages.LoginPage] start filling with 30203050
+2023-04-17 15:23:27 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 15:23:27 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 15:23:27 Thread: [main] INFO [pages.LoginPage] message: You are now logged in as Michal Rzavucki.
+2023-04-17 15:23:28 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:23:28 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734208236.png
+2023-04-17 15:23:28 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:23:28 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 15:23:31 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 15:23:31 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:23:35 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:23:51 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:23:51 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:23:51 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734231349.png
+2023-04-17 15:23:52 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:23:52 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734232730.png
+2023-04-17 15:23:52 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:23:52 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:23:55 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:23:55 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:23:55 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:23:55 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734235837.png
+2023-04-17 15:23:56 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:23:56 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734236448.png
+2023-04-17 15:23:56 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:23:56 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:23:57 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:23:58 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:23:58 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:23:58 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734238393.png
+2023-04-17 15:23:59 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:23:59 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734239329.png
+2023-04-17 15:23:59 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:23:59 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:24:02 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:24:02 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:24:02 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:24:02 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734242605.png
+2023-04-17 15:24:03 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:24:03 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734243713.png
+2023-04-17 15:24:03 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:24:03 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:24:05 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:24:05 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:24:05 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:24:05 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734245633.png
+2023-04-17 15:24:06 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:24:06 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734246627.png
+2023-04-17 15:24:06 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:24:06 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:24:07 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:24:07 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:24:07 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:24:07 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734247882.png
+2023-04-17 15:24:08 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:24:09 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734249095.png
+2023-04-17 15:24:09 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:24:09 Thread: [main] INFO [tests.BaseTest] Tests ended
+2023-04-17 15:24:09 Thread: [main] INFO [tests.Listener] On finish
+2023-04-17 15:25:29 Thread: [main] INFO [tests.Listener] On start
+2023-04-17 15:25:29 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 15:25:44 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 15:25:44 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:25:44 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:25:48 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:25:48 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:25:48 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734348547.png
+2023-04-17 15:25:48 Thread: [main] INFO [tests.LoginTest] invalidLoginTest
+2023-04-17 15:25:48 Thread: [main] INFO [pages.LoginPage] start filling with test@mail.com
+2023-04-17 15:25:50 Thread: [main] INFO [pages.LoginPage] start filling with sdf325fhg
+2023-04-17 15:25:50 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 15:25:53 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 15:25:54 Thread: [main] INFO [pages.LoginPage] message: Wrong password or the account is disabled, or does not exist
+2023-04-17 15:25:54 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:25:54 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734354936.png
+2023-04-17 15:25:54 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:25:54 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:25:56 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:25:56 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:25:56 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:25:56 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734356711.png
+2023-04-17 15:25:56 Thread: [main] INFO [tests.LoginTest] validLoginTest
+2023-04-17 15:25:56 Thread: [main] INFO [pages.LoginPage] start filling with michal.rzavucki@gmail.com
+2023-04-17 15:25:56 Thread: [main] INFO [pages.LoginPage] start filling with 30203050
+2023-04-17 15:25:57 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 15:25:57 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 15:25:57 Thread: [main] INFO [pages.LoginPage] message: You are now logged in as Michal Rzavucki.
+2023-04-17 15:25:57 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:25:57 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734357864.png
+2023-04-17 15:25:57 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:25:57 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 15:26:01 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 15:26:01 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:26:06 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:26:12 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:26:12 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:26:13 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734373249.png
+2023-04-17 15:26:14 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:26:14 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734374911.png
+2023-04-17 15:26:14 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:26:14 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:26:16 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:26:16 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:26:16 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:26:16 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734376563.png
+2023-04-17 15:26:16 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:26:17 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734377201.png
+2023-04-17 15:26:17 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:26:17 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:26:17 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:26:18 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:26:18 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:26:18 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734378429.png
+2023-04-17 15:26:20 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:26:20 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734380396.png
+2023-04-17 15:26:20 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:26:20 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:26:22 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:26:23 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:26:23 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:26:23 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734383527.png
+2023-04-17 15:26:24 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:26:24 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734384532.png
+2023-04-17 15:26:24 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:26:24 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:26:25 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:26:25 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:26:25 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:26:26 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734386112.png
+2023-04-17 15:26:26 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:26:27 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734387214.png
+2023-04-17 15:26:27 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:26:27 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:26:28 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:26:28 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:26:28 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:26:28 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734388937.png
+2023-04-17 15:26:29 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:26:30 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734390163.png
+2023-04-17 15:26:30 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:26:30 Thread: [main] INFO [tests.BaseTest] Tests ended
+2023-04-17 15:26:32 Thread: [main] INFO [tests.Listener] On finish
+2023-04-17 15:30:26 Thread: [main] INFO [tests.Listener] On start
+2023-04-17 15:30:26 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 15:30:40 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 15:30:40 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:30:40 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:30:45 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:30:45 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:30:46 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734646471.png
+2023-04-17 15:30:46 Thread: [main] INFO [tests.LoginTest] invalidLoginTest
+2023-04-17 15:30:46 Thread: [main] INFO [pages.LoginPage] start filling with test@mail.com
+2023-04-17 15:30:47 Thread: [main] INFO [pages.LoginPage] start filling with sdf325fhg
+2023-04-17 15:30:47 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 15:30:50 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 15:30:50 Thread: [main] INFO [pages.LoginPage] message: Wrong password or the account is disabled, or does not exist
+2023-04-17 15:30:51 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:30:51 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734651231.png
+2023-04-17 15:30:51 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:30:51 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:30:52 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:30:52 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:30:52 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:30:52 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734652639.png
+2023-04-17 15:30:52 Thread: [main] INFO [tests.LoginTest] validLoginTest
+2023-04-17 15:30:52 Thread: [main] INFO [pages.LoginPage] start filling with michal.rzavucki@gmail.com
+2023-04-17 15:30:52 Thread: [main] INFO [pages.LoginPage] start filling with 30203050
+2023-04-17 15:30:52 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 15:30:53 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 15:30:53 Thread: [main] INFO [pages.LoginPage] message: You are now logged in as Michal Rzavucki.
+2023-04-17 15:30:53 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:30:54 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734654420.png
+2023-04-17 15:30:54 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:30:54 Thread: [main] INFO [tests.BaseTest] Tests ended
+2023-04-17 15:30:55 Thread: [main] INFO [tests.Listener] On finish
+2023-04-17 15:35:25 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 15:35:30 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 15:35:30 Thread: [main] INFO [tests.Listener] On start
+2023-04-17 15:35:30 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:35:32 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:35:35 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:35:35 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:35:35 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734935898.png
+2023-04-17 15:35:35 Thread: [main] INFO [tests.LoginTest] invalidLoginTest
+2023-04-17 15:35:35 Thread: [main] INFO [pages.LoginPage] start filling with test@mail.com
+2023-04-17 15:35:36 Thread: [main] INFO [pages.LoginPage] start filling with sdf325fhg
+2023-04-17 15:35:36 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 15:35:39 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 15:35:39 Thread: [main] INFO [pages.LoginPage] message: Wrong password or the account is disabled, or does not exist
+2023-04-17 15:35:39 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:35:40 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734940099.png
+2023-04-17 15:35:40 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:35:40 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:35:40 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:35:41 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:35:41 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:35:41 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734941425.png
+2023-04-17 15:35:41 Thread: [main] INFO [tests.LoginTest] validLoginTest
+2023-04-17 15:35:41 Thread: [main] INFO [pages.LoginPage] start filling with michal.rzavucki@gmail.com
+2023-04-17 15:35:41 Thread: [main] INFO [pages.LoginPage] start filling with 30203050
+2023-04-17 15:35:41 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 15:35:42 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 15:35:42 Thread: [main] INFO [pages.LoginPage] message: You are now logged in as Michal Rzavucki.
+2023-04-17 15:35:42 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:35:42 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734942691.png
+2023-04-17 15:35:42 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:35:42 Thread: [main] INFO [tests.Listener] On finish
+2023-04-17 15:35:42 Thread: [main] INFO [tests.BaseTest] Tests ended
+2023-04-17 15:36:17 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 15:36:24 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 15:36:24 Thread: [main] INFO [tests.Listener] On start
+2023-04-17 15:36:24 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:36:25 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:36:27 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:36:27 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:36:27 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734987985.png
+2023-04-17 15:36:28 Thread: [main] INFO [tests.LoginTest] invalidLoginTest
+2023-04-17 15:36:28 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:36:28 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734988269.png
+2023-04-17 15:36:28 Thread: [main] INFO [tests.Listener] Test failed
+2023-04-17 15:36:28 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:36:28 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:36:29 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:36:29 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:36:30 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734990572.png
+2023-04-17 15:36:30 Thread: [main] INFO [tests.LoginTest] validLoginTest
+2023-04-17 15:36:30 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:36:30 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734990832.png
+2023-04-17 15:36:30 Thread: [main] INFO [tests.Listener] Test failed
+2023-04-17 15:36:30 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:36:32 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:36:32 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:36:32 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:36:32 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734992961.png
+2023-04-17 15:36:32 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:36:33 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734993199.png
+2023-04-17 15:36:33 Thread: [main] INFO [tests.Listener] Test failed
+2023-04-17 15:36:33 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:36:33 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:36:34 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:36:34 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:36:34 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734994364.png
+2023-04-17 15:36:34 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:36:34 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734994788.png
+2023-04-17 15:36:34 Thread: [main] INFO [tests.Listener] Test failed
+2023-04-17 15:36:34 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:36:35 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:36:35 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:36:35 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:36:36 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734996116.png
+2023-04-17 15:36:36 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:36:36 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734996355.png
+2023-04-17 15:36:36 Thread: [main] INFO [tests.Listener] Test failed
+2023-04-17 15:36:36 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:36:37 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:36:37 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:36:37 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:36:37 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734997588.png
+2023-04-17 15:36:37 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:36:37 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734997805.png
+2023-04-17 15:36:37 Thread: [main] INFO [tests.Listener] Test failed
+2023-04-17 15:36:37 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:36:38 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:36:39 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:36:39 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:36:39 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734999442.png
+2023-04-17 15:36:39 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:36:39 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681734999658.png
+2023-04-17 15:36:39 Thread: [main] INFO [tests.Listener] Test failed
+2023-04-17 15:36:39 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:36:40 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:36:40 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:36:40 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:36:40 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735000900.png
+2023-04-17 15:36:40 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:36:41 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735001133.png
+2023-04-17 15:36:41 Thread: [main] INFO [tests.Listener] Test failed
+2023-04-17 15:36:41 Thread: [main] INFO [tests.Listener] On finish
+2023-04-17 15:36:41 Thread: [main] INFO [tests.BaseTest] Tests ended
+2023-04-17 15:37:35 Thread: [main] INFO [tests.Listener] On start
+2023-04-17 15:37:35 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 15:37:42 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 15:37:42 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:37:42 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:37:46 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:37:46 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:37:47 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735067288.png
+2023-04-17 15:37:47 Thread: [main] INFO [tests.LoginTest] invalidLoginTest
+2023-04-17 15:37:47 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:37:47 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735067560.png
+2023-04-17 15:37:47 Thread: [main] INFO [tests.Listener] Test failed
+2023-04-17 15:37:47 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:37:48 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:37:48 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:37:48 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:37:49 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735069231.png
+2023-04-17 15:37:49 Thread: [main] INFO [tests.LoginTest] validLoginTest
+2023-04-17 15:37:49 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:37:49 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735069610.png
+2023-04-17 15:37:49 Thread: [main] INFO [tests.Listener] Test failed
+2023-04-17 15:37:49 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:37:50 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:37:50 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:37:50 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:37:51 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735071065.png
+2023-04-17 15:37:51 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:37:51 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735071348.png
+2023-04-17 15:37:51 Thread: [main] INFO [tests.Listener] Test failed
+2023-04-17 15:37:51 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:37:52 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:37:53 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:37:53 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:37:53 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735073391.png
+2023-04-17 15:37:53 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:37:53 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735073899.png
+2023-04-17 15:37:53 Thread: [main] INFO [tests.Listener] Test failed
+2023-04-17 15:37:53 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:37:54 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:37:54 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:37:54 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:37:55 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735075300.png
+2023-04-17 15:37:55 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:37:55 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735075655.png
+2023-04-17 15:37:55 Thread: [main] INFO [tests.Listener] Test failed
+2023-04-17 15:37:55 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:37:56 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:37:56 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:37:56 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:37:56 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735076968.png
+2023-04-17 15:37:56 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:37:57 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735077279.png
+2023-04-17 15:37:57 Thread: [main] INFO [tests.Listener] Test failed
+2023-04-17 15:37:57 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:37:58 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:37:58 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:37:58 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:37:58 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735078590.png
+2023-04-17 15:37:58 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:37:58 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735078873.png
+2023-04-17 15:37:58 Thread: [main] INFO [tests.Listener] Test failed
+2023-04-17 15:37:58 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:37:59 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:37:59 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:37:59 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:37:59 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735079974.png
+2023-04-17 15:37:59 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:38:00 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735080265.png
+2023-04-17 15:38:00 Thread: [main] INFO [tests.Listener] Test failed
+2023-04-17 15:38:00 Thread: [main] INFO [tests.BaseTest] Tests ended
+2023-04-17 15:38:01 Thread: [main] INFO [tests.Listener] On finish
+2023-04-17 15:39:33 Thread: [main] INFO [tests.Listener] On start
+2023-04-17 15:39:33 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 15:39:38 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 15:39:38 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:39:39 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:39:41 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:39:41 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:39:41 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735181477.png
+2023-04-17 15:39:41 Thread: [main] INFO [tests.LoginTest] invalidLoginTest
+2023-04-17 15:39:41 Thread: [main] INFO [pages.LoginPage] start filling with test@mail.com
+2023-04-17 15:39:41 Thread: [main] INFO [pages.LoginPage] start filling with sdf325fhg
+2023-04-17 15:39:42 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 15:39:45 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 15:39:45 Thread: [main] INFO [pages.LoginPage] message: Wrong password or the account is disabled, or does not exist
+2023-04-17 15:39:45 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:39:45 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735185684.png
+2023-04-17 15:39:45 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:39:45 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:39:46 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:39:46 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:39:46 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:39:46 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735186612.png
+2023-04-17 15:39:46 Thread: [main] INFO [tests.LoginTest] validLoginTest
+2023-04-17 15:39:46 Thread: [main] INFO [pages.LoginPage] start filling with michal.rzavucki@gmail.com
+2023-04-17 15:39:46 Thread: [main] INFO [pages.LoginPage] start filling with 30203050
+2023-04-17 15:39:46 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 15:39:47 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 15:39:47 Thread: [main] INFO [pages.LoginPage] message: You are now logged in as Michal Rzavucki.
+2023-04-17 15:39:47 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:39:47 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735187664.png
+2023-04-17 15:39:47 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:39:47 Thread: [main] INFO [tests.BaseTest] Tests ended
+2023-04-17 15:39:48 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 15:39:50 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 15:39:50 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:39:52 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:39:55 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:39:55 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:39:55 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735195382.png
+2023-04-17 15:39:56 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:39:56 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735196163.png
+2023-04-17 15:39:56 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:39:56 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:39:56 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:39:57 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:39:57 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:39:57 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735197400.png
+2023-04-17 15:39:57 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:39:57 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735197957.png
+2023-04-17 15:39:57 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:39:57 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:39:59 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:39:59 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:39:59 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:40:00 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735200081.png
+2023-04-17 15:40:00 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:40:00 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735200834.png
+2023-04-17 15:40:00 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:40:00 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:40:01 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:40:02 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:40:02 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:40:02 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735202368.png
+2023-04-17 15:40:03 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:40:03 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735203304.png
+2023-04-17 15:40:03 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:40:03 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:40:03 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:40:04 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:40:04 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:40:04 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735204427.png
+2023-04-17 15:40:05 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:40:05 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735205334.png
+2023-04-17 15:40:05 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:40:05 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:40:06 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:40:06 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:40:06 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:40:06 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735206589.png
+2023-04-17 15:40:07 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:40:07 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735207720.png
+2023-04-17 15:40:07 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:40:07 Thread: [main] INFO [tests.BaseTest] Tests ended
+2023-04-17 15:40:08 Thread: [main] INFO [tests.Listener] On finish
+2023-04-17 15:43:56 Thread: [main] INFO [tests.Listener] On start
+2023-04-17 15:43:56 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 15:44:03 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 15:44:03 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:44:05 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:44:08 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:44:08 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:44:08 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735448832.png
+2023-04-17 15:44:08 Thread: [main] INFO [tests.LoginTest] invalidLoginTest
+2023-04-17 15:44:08 Thread: [main] INFO [pages.LoginPage] start filling with test@mail.com
+2023-04-17 15:44:09 Thread: [main] INFO [pages.LoginPage] start filling with sdf325fhg
+2023-04-17 15:44:09 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 15:44:12 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 15:44:12 Thread: [main] INFO [pages.LoginPage] message: Wrong password or the account is disabled, or does not exist
+2023-04-17 15:44:12 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:44:13 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735453186.png
+2023-04-17 15:44:13 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:44:13 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:44:13 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:44:14 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:44:14 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:44:14 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735454327.png
+2023-04-17 15:44:14 Thread: [main] INFO [tests.LoginTest] validLoginTest
+2023-04-17 15:44:14 Thread: [main] INFO [pages.LoginPage] start filling with michal.rzavucki@gmail.com
+2023-04-17 15:44:14 Thread: [main] INFO [pages.LoginPage] start filling with 30203050
+2023-04-17 15:44:14 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 15:44:15 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 15:44:15 Thread: [main] INFO [pages.LoginPage] message: You are now logged in as Michal Rzavucki.
+2023-04-17 15:44:15 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:44:15 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735455525.png
+2023-04-17 15:44:15 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:44:15 Thread: [main] INFO [tests.BaseTest] Tests ended
+2023-04-17 15:44:16 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 15:44:20 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 15:44:20 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:44:23 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:44:26 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:44:26 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:44:26 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735466892.png
+2023-04-17 15:44:27 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:44:27 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735467701.png
+2023-04-17 15:44:27 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:44:27 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:44:28 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:44:28 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:44:28 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:44:29 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735468972.png
+2023-04-17 15:44:29 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:44:29 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735469753.png
+2023-04-17 15:44:29 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:44:29 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:44:30 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:44:30 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:44:30 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:44:30 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735470796.png
+2023-04-17 15:44:31 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:44:31 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735471773.png
+2023-04-17 15:44:31 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:44:31 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:44:32 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:44:32 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:44:32 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:44:33 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735473100.png
+2023-04-17 15:44:34 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:44:34 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735474342.png
+2023-04-17 15:44:34 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:44:34 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:44:34 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:44:34 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:44:34 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:44:35 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735475239.png
+2023-04-17 15:44:35 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:44:36 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735476214.png
+2023-04-17 15:44:36 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:44:36 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:44:37 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:44:37 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:44:37 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:44:37 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735477580.png
+2023-04-17 15:44:38 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:44:38 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681735478773.png
+2023-04-17 15:44:38 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:44:38 Thread: [main] INFO [tests.BaseTest] Tests ended
+2023-04-17 15:44:39 Thread: [main] INFO [tests.Listener] On finish
+2023-04-17 15:56:50 Thread: [main] INFO [tests.Listener] On start
+2023-04-17 15:56:50 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 15:57:01 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 15:57:01 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:57:01 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:57:08 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:57:08 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:57:09 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681736229269.png
+2023-04-17 15:57:09 Thread: [main] INFO [tests.LoginTest] invalidLoginTest
+2023-04-17 15:57:09 Thread: [main] INFO [pages.LoginPage] start filling with test@mail.com
+2023-04-17 15:57:09 Thread: [main] INFO [pages.LoginPage] start filling with sdf325fhg
+2023-04-17 15:57:10 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 15:57:14 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 15:57:14 Thread: [main] INFO [pages.LoginPage] message: Wrong password or the account is disabled, or does not exist
+2023-04-17 15:57:15 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:57:15 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681736235132.png
+2023-04-17 15:57:15 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:57:15 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:57:15 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:57:16 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:57:16 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:57:16 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681736236347.png
+2023-04-17 15:57:16 Thread: [main] INFO [tests.LoginTest] validLoginTest
+2023-04-17 15:57:16 Thread: [main] INFO [pages.LoginPage] start filling with michal.rzavucki@gmail.com
+2023-04-17 15:57:16 Thread: [main] INFO [pages.LoginPage] start filling with 30203050
+2023-04-17 15:57:16 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 15:57:17 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 15:57:17 Thread: [main] INFO [pages.LoginPage] message: You are now logged in as Michal Rzavucki.
+2023-04-17 15:57:17 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:57:17 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681736237451.png
+2023-04-17 15:57:17 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:57:17 Thread: [main] INFO [tests.BaseTest] Tests ended
+2023-04-17 15:57:18 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 15:57:20 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 15:57:20 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:57:21 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:57:23 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:57:23 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:57:24 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681736244232.png
+2023-04-17 15:57:24 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:57:25 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681736245028.png
+2023-04-17 15:57:25 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:57:25 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:57:26 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:57:26 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:57:26 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:57:26 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681736246571.png
+2023-04-17 15:57:27 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:57:27 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681736247225.png
+2023-04-17 15:57:27 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:57:27 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:57:28 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:57:28 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:57:28 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:57:28 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681736248703.png
+2023-04-17 15:57:29 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:57:29 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681736249531.png
+2023-04-17 15:57:29 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:57:29 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:57:30 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:57:30 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:57:30 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:57:30 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681736250677.png
+2023-04-17 15:57:31 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:57:31 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681736251550.png
+2023-04-17 15:57:31 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:57:31 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:57:32 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:57:32 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:57:32 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:57:32 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681736252861.png
+2023-04-17 15:57:33 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:57:33 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681736253770.png
+2023-04-17 15:57:33 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:57:33 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 15:57:34 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 15:57:34 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 15:57:34 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:57:34 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681736254884.png
+2023-04-17 15:57:36 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 15:57:36 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681736256167.png
+2023-04-17 15:57:36 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 15:57:36 Thread: [main] INFO [tests.BaseTest] Tests ended
+2023-04-17 15:57:37 Thread: [main] INFO [tests.Listener] On finish
+2023-04-17 16:18:32 Thread: [main] INFO [tests.Listener] On start
+2023-04-17 16:18:33 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 16:19:02 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 16:19:02 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 16:19:02 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 16:19:18 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 16:19:18 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 16:19:18 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681737558551.png
+2023-04-17 16:19:18 Thread: [main] INFO [tests.LoginTest] invalidLoginTest
+2023-04-17 16:19:18 Thread: [main] INFO [pages.LoginPage] start filling with test@mail.com
+2023-04-17 16:19:20 Thread: [main] INFO [pages.LoginPage] start filling with sdf325fhg
+2023-04-17 16:19:20 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 16:19:24 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 16:19:25 Thread: [main] INFO [pages.LoginPage] message: Wrong password or the account is disabled, or does not exist
+2023-04-17 16:19:25 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 16:19:25 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681737565326.png
+2023-04-17 16:19:25 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 16:19:25 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 16:19:26 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 16:19:27 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 16:19:27 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 16:19:27 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681737567463.png
+2023-04-17 16:19:27 Thread: [main] INFO [tests.LoginTest] validLoginTest
+2023-04-17 16:19:27 Thread: [main] INFO [pages.LoginPage] start filling with michal.rzavucki@gmail.com
+2023-04-17 16:19:27 Thread: [main] INFO [pages.LoginPage] start filling with 30203050
+2023-04-17 16:19:27 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 16:19:28 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 16:19:28 Thread: [main] INFO [pages.LoginPage] message: You are now logged in as Michal Rzavucki.
+2023-04-17 16:19:28 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 16:19:28 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681737568615.png
+2023-04-17 16:19:28 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 16:19:28 Thread: [main] INFO [tests.BaseTest] Tests ended
+2023-04-17 16:19:32 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 16:19:43 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 16:19:43 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 16:19:46 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 16:19:50 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 16:19:50 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 16:19:52 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681737592580.png
+2023-04-17 16:19:54 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 16:19:54 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681737594163.png
+2023-04-17 16:19:54 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 16:19:54 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 16:19:55 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 16:19:55 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 16:19:55 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 16:19:55 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681737595542.png
+2023-04-17 16:19:55 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 16:19:56 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681737596169.png
+2023-04-17 16:19:56 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 16:19:56 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 16:19:57 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 16:19:57 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 16:19:57 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 16:19:57 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681737597726.png
+2023-04-17 16:19:58 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 16:19:58 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681737598583.png
+2023-04-17 16:19:58 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 16:19:58 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 16:20:00 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 16:20:00 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 16:20:00 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 16:20:00 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681737600528.png
+2023-04-17 16:20:01 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 16:20:01 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681737601827.png
+2023-04-17 16:20:01 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 16:20:01 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 16:20:02 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 16:20:03 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 16:20:03 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 16:20:03 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681737603515.png
+2023-04-17 16:20:04 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 16:20:04 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681737604500.png
+2023-04-17 16:20:04 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 16:20:04 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 16:20:05 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 16:20:05 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 16:20:05 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 16:20:05 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681737605538.png
+2023-04-17 16:20:06 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 16:20:06 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681737606868.png
+2023-04-17 16:20:06 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 16:20:06 Thread: [main] INFO [tests.BaseTest] Tests ended
+2023-04-17 16:20:11 Thread: [main] INFO [tests.Listener] On finish
+2023-04-17 16:22:33 Thread: [main] INFO [tests.Listener] On start
+2023-04-17 16:22:33 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 16:22:55 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 16:22:55 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 16:22:55 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 16:23:00 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 16:23:00 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 16:23:01 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681737781269.png
+2023-04-17 16:23:01 Thread: [main] INFO [tests.LoginTest] invalidLoginTest
+2023-04-17 16:23:01 Thread: [main] INFO [pages.LoginPage] start filling with test@mail.com
+2023-04-17 16:23:02 Thread: [main] INFO [pages.LoginPage] start filling with sdf325fhg
+2023-04-17 16:23:02 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 16:23:06 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 16:23:06 Thread: [main] INFO [pages.LoginPage] message: Wrong password or the account is disabled, or does not exist
+2023-04-17 16:23:06 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 16:23:06 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681737786881.png
+2023-04-17 16:23:06 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 16:23:06 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 16:23:08 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 16:23:08 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 16:23:08 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 16:23:09 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681737789116.png
+2023-04-17 16:23:09 Thread: [main] INFO [tests.LoginTest] validLoginTest
+2023-04-17 16:23:09 Thread: [main] INFO [pages.LoginPage] start filling with michal.rzavucki@gmail.com
+2023-04-17 16:23:09 Thread: [main] INFO [pages.LoginPage] start filling with 30203050
+2023-04-17 16:23:09 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 16:23:09 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 16:23:09 Thread: [main] INFO [pages.LoginPage] message: You are now logged in as Michal Rzavucki.
+2023-04-17 16:23:10 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 16:23:10 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681737790380.png
+2023-04-17 16:23:10 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 16:23:10 Thread: [main] INFO [tests.BaseTest] Tests ended
+2023-04-17 16:23:12 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 16:23:14 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 16:23:14 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 16:23:15 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 16:23:16 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 16:23:16 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 16:23:17 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681737797156.png
+2023-04-17 16:23:17 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 16:23:18 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681737798075.png
+2023-04-17 16:23:18 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 16:23:18 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 16:23:18 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 16:23:19 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 16:23:19 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 16:23:19 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681737799559.png
+2023-04-17 16:23:20 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 16:23:20 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681737800708.png
+2023-04-17 16:23:20 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 16:23:20 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 16:23:21 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 16:23:22 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 16:23:22 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 16:23:22 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681737802647.png
+2023-04-17 16:23:23 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 16:23:24 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681737804001.png
+2023-04-17 16:23:24 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 16:23:24 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 16:23:24 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 16:23:24 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 16:23:24 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 16:23:25 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681737805032.png
+2023-04-17 16:23:25 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 16:23:25 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681737805954.png
+2023-04-17 16:23:25 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 16:23:25 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 16:23:26 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 16:23:26 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 16:23:26 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 16:23:27 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681737807136.png
+2023-04-17 16:23:27 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 16:23:28 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681737808027.png
+2023-04-17 16:23:28 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 16:23:28 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 16:23:28 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 16:23:28 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 16:23:28 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 16:23:29 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681737809028.png
+2023-04-17 16:23:30 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 16:23:30 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681737810185.png
+2023-04-17 16:23:30 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 16:23:30 Thread: [main] INFO [tests.BaseTest] Tests ended
+2023-04-17 16:23:30 Thread: [main] INFO [tests.Listener] On finish
+2023-04-17 17:37:05 Thread: [main] INFO [tests.Listener] On start
+2023-04-17 17:37:05 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 17:37:30 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 17:37:30 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 17:37:31 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 17:37:39 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 17:37:39 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 17:37:40 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681742260668.png
+2023-04-17 17:37:40 Thread: [main] INFO [tests.LoginTest] invalidLoginTest
+2023-04-17 17:37:40 Thread: [main] INFO [pages.LoginPage] start filling with test@mail.com
+2023-04-17 17:37:46 Thread: [main] INFO [pages.LoginPage] start filling with sdf325fhg
+2023-04-17 17:37:46 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 17:37:51 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 17:37:51 Thread: [main] INFO [pages.LoginPage] message: Wrong password or the account is disabled, or does not exist
+2023-04-17 17:37:51 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 17:37:51 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681742271869.png
+2023-04-17 17:37:51 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 17:37:51 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 17:37:52 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 17:37:52 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 17:37:52 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 17:37:53 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681742273277.png
+2023-04-17 17:37:53 Thread: [main] INFO [tests.LoginTest] validLoginTest
+2023-04-17 17:37:53 Thread: [main] INFO [pages.LoginPage] start filling with michal.rzavucki@gmail.com
+2023-04-17 17:37:53 Thread: [main] INFO [pages.LoginPage] start filling with 30203050
+2023-04-17 17:37:53 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 17:37:53 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 17:37:54 Thread: [main] INFO [pages.LoginPage] message: You are now logged in as Michal Rzavucki.
+2023-04-17 17:37:54 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 17:37:54 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681742274511.png
+2023-04-17 17:37:54 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 17:37:54 Thread: [main] INFO [tests.BaseTest] Tests ended
+2023-04-17 17:37:55 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 17:37:58 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 17:37:58 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 17:37:59 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 17:38:02 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 17:38:02 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 17:38:02 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681742282383.png
+2023-04-17 17:38:03 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 17:38:03 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681742283289.png
+2023-04-17 17:38:03 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 17:38:03 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 17:38:04 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 17:38:04 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 17:38:04 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 17:38:04 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681742284923.png
+2023-04-17 17:38:05 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 17:38:05 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681742285636.png
+2023-04-17 17:38:05 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 17:38:05 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 17:38:06 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 17:38:06 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 17:38:06 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 17:38:06 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681742286618.png
+2023-04-17 17:38:07 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 17:38:07 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681742287522.png
+2023-04-17 17:38:07 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 17:38:07 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 17:38:07 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 17:38:08 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 17:38:08 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 17:38:08 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681742288523.png
+2023-04-17 17:38:09 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 17:38:09 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681742289443.png
+2023-04-17 17:38:09 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 17:38:09 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 17:38:09 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 17:38:10 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 17:38:10 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 17:38:10 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681742290440.png
+2023-04-17 17:38:11 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 17:38:11 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681742291442.png
+2023-04-17 17:38:11 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 17:38:11 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 17:38:12 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 17:38:12 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 17:38:12 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 17:38:12 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681742292582.png
+2023-04-17 17:38:13 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 17:38:13 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681742293978.png
+2023-04-17 17:38:13 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 17:38:13 Thread: [main] INFO [tests.BaseTest] Tests ended
+2023-04-17 17:38:15 Thread: [main] INFO [tests.Listener] On finish
+2023-04-17 18:01:24 Thread: [main] INFO [tests.Listener] On start
+2023-04-17 18:01:24 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 18:01:53 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 18:01:53 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:01:53 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:02:04 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:02:04 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:02:04 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681743724703.png
+2023-04-17 18:02:04 Thread: [main] INFO [tests.LoginTest] invalidLoginTest
+2023-04-17 18:02:04 Thread: [main] INFO [pages.LoginPage] start filling with test@mail.com
+2023-04-17 18:02:07 Thread: [main] INFO [pages.LoginPage] start filling with sdf325fhg
+2023-04-17 18:02:07 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 18:02:11 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 18:02:11 Thread: [main] INFO [pages.LoginPage] message: Wrong password or the account is disabled, or does not exist
+2023-04-17 18:02:11 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:02:11 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681743731491.png
+2023-04-17 18:02:11 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:02:11 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:02:12 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:02:12 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:02:12 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:02:12 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681743732839.png
+2023-04-17 18:02:12 Thread: [main] INFO [tests.LoginTest] validLoginTest
+2023-04-17 18:02:12 Thread: [main] INFO [pages.LoginPage] start filling with michal.rzavucki@gmail.com
+2023-04-17 18:02:13 Thread: [main] INFO [pages.LoginPage] start filling with 30203050
+2023-04-17 18:02:13 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 18:02:13 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 18:02:13 Thread: [main] INFO [pages.LoginPage] message: You are now logged in as Michal Rzavucki.
+2023-04-17 18:02:13 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:02:14 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681743734100.png
+2023-04-17 18:02:14 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:02:14 Thread: [main] INFO [tests.BaseTest] Tests ended
+2023-04-17 18:02:14 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 18:02:18 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 18:02:18 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:02:20 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:02:22 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:02:22 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:02:23 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681743743229.png
+2023-04-17 18:02:23 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:02:24 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681743744157.png
+2023-04-17 18:02:24 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:02:24 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:02:24 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:02:25 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:02:25 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:02:25 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681743745457.png
+2023-04-17 18:02:25 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:02:26 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681743746206.png
+2023-04-17 18:02:26 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:02:26 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:02:27 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:02:27 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:02:27 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:02:27 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681743747701.png
+2023-04-17 18:02:28 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:02:28 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681743748681.png
+2023-04-17 18:02:28 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:02:28 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:02:29 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:02:29 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:02:29 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:02:30 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681743750040.png
+2023-04-17 18:02:30 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:02:31 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681743751040.png
+2023-04-17 18:02:31 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:02:31 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:02:31 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:02:31 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:02:31 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:02:32 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681743752332.png
+2023-04-17 18:02:33 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:02:33 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681743753381.png
+2023-04-17 18:02:33 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:02:33 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:02:34 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:02:34 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:02:34 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:02:34 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681743754569.png
+2023-04-17 18:02:35 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:02:35 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681743755931.png
+2023-04-17 18:02:35 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:02:35 Thread: [main] INFO [tests.BaseTest] Tests ended
+2023-04-17 18:02:37 Thread: [main] INFO [tests.Listener] On finish
+2023-04-17 18:05:47 Thread: [main] INFO [tests.Listener] On start
+2023-04-17 18:05:47 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 18:06:06 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 18:06:06 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:06:06 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:06:08 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:06:08 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:06:09 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681743969268.png
+2023-04-17 18:06:09 Thread: [main] INFO [tests.LoginTest] invalidLoginTest
+2023-04-17 18:06:09 Thread: [main] INFO [pages.LoginPage] start filling with test@mail.com
+2023-04-17 18:06:10 Thread: [main] INFO [pages.LoginPage] start filling with sdf325fhg
+2023-04-17 18:06:10 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 18:06:14 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 18:06:14 Thread: [main] INFO [pages.LoginPage] message: Wrong password or the account is disabled, or does not exist
+2023-04-17 18:06:14 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:06:14 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681743974529.png
+2023-04-17 18:06:14 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:06:14 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:06:16 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:06:16 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:06:16 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:06:16 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681743976734.png
+2023-04-17 18:06:16 Thread: [main] INFO [tests.LoginTest] validLoginTest
+2023-04-17 18:06:16 Thread: [main] INFO [pages.LoginPage] start filling with michal.rzavucki@gmail.com
+2023-04-17 18:06:16 Thread: [main] INFO [pages.LoginPage] start filling with 30203050
+2023-04-17 18:06:17 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 18:06:17 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 18:06:17 Thread: [main] INFO [pages.LoginPage] message: You are now logged in as Michal Rzavucki.
+2023-04-17 18:06:17 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:06:18 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681743978039.png
+2023-04-17 18:06:18 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:06:18 Thread: [main] INFO [tests.BaseTest] Tests ended
+2023-04-17 18:06:21 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 18:06:30 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 18:06:30 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:06:33 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:06:38 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:06:38 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:06:38 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681743998711.png
+2023-04-17 18:06:39 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:06:40 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681743999997.png
+2023-04-17 18:06:40 Thread: [main] INFO [tests.Listener] Test failed
+2023-04-17 18:06:40 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:06:42 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:06:42 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:06:42 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:06:43 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681744003248.png
+2023-04-17 18:06:43 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:06:43 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681744003930.png
+2023-04-17 18:06:43 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:06:43 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:06:44 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:06:44 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:06:44 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:06:45 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681744005135.png
+2023-04-17 18:06:45 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:06:46 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681744006038.png
+2023-04-17 18:06:46 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:06:46 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:06:46 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:06:47 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:06:47 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:06:47 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681744007507.png
+2023-04-17 18:06:48 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:06:48 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681744008706.png
+2023-04-17 18:06:48 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:06:48 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:06:49 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:06:49 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:06:49 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:06:50 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681744010222.png
+2023-04-17 18:06:51 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:06:51 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681744011263.png
+2023-04-17 18:06:51 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:06:51 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:06:52 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:06:52 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:06:52 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:06:52 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681744012599.png
+2023-04-17 18:06:53 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:06:54 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681744014138.png
+2023-04-17 18:06:54 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:06:54 Thread: [main] INFO [tests.BaseTest] Tests ended
+2023-04-17 18:06:54 Thread: [main] INFO [tests.Listener] On finish
+2023-04-17 18:24:53 Thread: [main] INFO [tests.Listener] On start
+2023-04-17 18:24:54 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 18:25:25 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 18:25:25 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:25:25 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:25:45 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:25:45 Thread: [main] INFO [tests.LoginTest] invalidLoginTest
+2023-04-17 18:25:45 Thread: [main] INFO [pages.LoginPage] start filling with test@mail.com
+2023-04-17 18:25:52 Thread: [main] INFO [pages.LoginPage] start filling with sdf325fhg
+2023-04-17 18:25:54 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 18:25:59 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 18:25:59 Thread: [main] INFO [pages.LoginPage] message: Wrong password or the account is disabled, or does not exist
+2023-04-17 18:26:01 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:26:01 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:26:04 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:26:05 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:26:05 Thread: [main] INFO [tests.LoginTest] validLoginTest
+2023-04-17 18:26:05 Thread: [main] INFO [pages.LoginPage] start filling with michal.rzavucki@gmail.com
+2023-04-17 18:26:05 Thread: [main] INFO [pages.LoginPage] start filling with 30203050
+2023-04-17 18:26:05 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 18:26:06 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 18:26:06 Thread: [main] INFO [pages.LoginPage] message: You are now logged in as Michal Rzavucki.
+2023-04-17 18:26:06 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:26:06 Thread: [main] INFO [tests.BaseTest] Tests ended
+2023-04-17 18:26:12 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 18:26:18 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 18:26:18 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:26:21 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:26:25 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:26:27 Thread: [main] INFO [tests.Listener] Test failed
+2023-04-17 18:26:27 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:26:27 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:26:28 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:26:28 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:26:28 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:26:29 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:26:29 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:26:30 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:26:30 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:26:30 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:26:31 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:26:31 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:26:31 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:26:32 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:26:32 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:26:33 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:26:33 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:26:34 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:26:34 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:26:35 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:26:35 Thread: [main] INFO [tests.BaseTest] Tests ended
+2023-04-17 18:26:37 Thread: [main] INFO [tests.Listener] On finish
+2023-04-17 18:30:54 Thread: [main] INFO [tests.Listener] On start
+2023-04-17 18:30:54 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 18:31:37 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 18:31:37 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:31:37 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:31:42 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:31:42 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:31:42 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681745502797.png
+2023-04-17 18:31:42 Thread: [main] INFO [tests.LoginTest] invalidLoginTest
+2023-04-17 18:31:42 Thread: [main] INFO [pages.LoginPage] start filling with test@mail.com
+2023-04-17 18:31:44 Thread: [main] INFO [pages.LoginPage] start filling with sdf325fhg
+2023-04-17 18:31:44 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 18:31:48 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 18:31:48 Thread: [main] INFO [pages.LoginPage] message: Wrong password or the account is disabled, or does not exist
+2023-04-17 18:31:48 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:31:49 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681745509115.png
+2023-04-17 18:31:49 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:31:49 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:31:52 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:31:52 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:31:52 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:31:53 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681745513508.png
+2023-04-17 18:31:53 Thread: [main] INFO [tests.LoginTest] validLoginTest
+2023-04-17 18:31:53 Thread: [main] INFO [pages.LoginPage] start filling with michal.rzavucki@gmail.com
+2023-04-17 18:31:54 Thread: [main] INFO [pages.LoginPage] start filling with 30203050
+2023-04-17 18:31:54 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 18:31:55 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 18:31:55 Thread: [main] INFO [pages.LoginPage] message: You are now logged in as Michal Rzavucki.
+2023-04-17 18:31:55 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:31:56 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681745516344.png
+2023-04-17 18:31:56 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:31:56 Thread: [main] INFO [tests.BaseTest] Tests ended
+2023-04-17 18:32:10 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 18:32:18 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 18:32:18 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:32:19 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:32:22 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:32:22 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:32:22 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681745542906.png
+2023-04-17 18:32:25 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:32:25 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681745545423.png
+2023-04-17 18:32:25 Thread: [main] INFO [tests.Listener] Test failed
+2023-04-17 18:32:25 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:32:26 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:32:26 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:32:26 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:32:27 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681745547165.png
+2023-04-17 18:32:28 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:32:28 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681745548712.png
+2023-04-17 18:32:28 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:32:28 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:32:29 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:32:29 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:32:29 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:32:30 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681745550208.png
+2023-04-17 18:32:31 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:32:32 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681745552187.png
+2023-04-17 18:32:32 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:32:32 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:32:33 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:32:33 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:32:33 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:32:34 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681745553997.png
+2023-04-17 18:32:36 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:32:36 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681745556348.png
+2023-04-17 18:32:36 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:32:36 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:32:37 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:32:37 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:32:37 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:32:38 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681745558163.png
+2023-04-17 18:32:40 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:32:40 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681745560514.png
+2023-04-17 18:32:40 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:32:40 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:32:41 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:32:41 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:32:41 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:32:42 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681745562270.png
+2023-04-17 18:32:44 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:32:44 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681745564582.png
+2023-04-17 18:32:44 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:32:44 Thread: [main] INFO [tests.BaseTest] Tests ended
+2023-04-17 18:33:06 Thread: [main] INFO [tests.Listener] On finish
+2023-04-17 18:34:51 Thread: [main] INFO [tests.Listener] On start
+2023-04-17 18:34:51 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 18:35:08 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 18:35:08 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:35:09 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:35:13 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:35:13 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:35:14 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681745714613.png
+2023-04-17 18:35:14 Thread: [main] INFO [tests.LoginTest] invalidLoginTest
+2023-04-17 18:35:14 Thread: [main] INFO [pages.LoginPage] start filling with test@mail.com
+2023-04-17 18:35:16 Thread: [main] INFO [pages.LoginPage] start filling with sdf325fhg
+2023-04-17 18:35:17 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 18:35:21 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 18:35:22 Thread: [main] INFO [pages.LoginPage] message: Wrong password or the account is disabled, or does not exist
+2023-04-17 18:35:23 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:35:23 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681745723540.png
+2023-04-17 18:35:23 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:35:23 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:35:32 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:35:53 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:35:53 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:36:13 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681745773812.png
+2023-04-17 18:36:13 Thread: [main] INFO [tests.LoginTest] validLoginTest
+2023-04-17 18:36:13 Thread: [main] INFO [pages.LoginPage] start filling with michal.rzavucki@gmail.com
+2023-04-17 18:36:14 Thread: [main] INFO [pages.LoginPage] start filling with 30203050
+2023-04-17 18:36:14 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 18:36:15 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 18:36:15 Thread: [main] INFO [pages.LoginPage] message: You are now logged in as Michal Rzavucki.
+2023-04-17 18:36:16 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:36:16 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681745776699.png
+2023-04-17 18:36:16 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:36:16 Thread: [main] INFO [tests.BaseTest] Tests ended
+2023-04-17 18:36:30 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 18:36:37 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 18:36:37 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:36:40 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:36:44 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:36:44 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:36:46 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681745805454.png
+2023-04-17 18:36:48 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:36:48 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681745808513.png
+2023-04-17 18:36:48 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:36:48 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:36:49 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:36:49 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:36:49 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:36:50 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681745810212.png
+2023-04-17 18:36:51 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:36:51 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681745811567.png
+2023-04-17 18:36:51 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:36:51 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:36:52 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:36:52 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:36:52 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:36:53 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681745813217.png
+2023-04-17 18:36:54 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:36:55 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681745815079.png
+2023-04-17 18:36:55 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:36:55 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:36:55 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:36:56 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:36:56 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:36:56 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681745816645.png
+2023-04-17 18:36:58 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:36:58 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681745818989.png
+2023-04-17 18:36:59 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:36:59 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:36:59 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:37:00 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:37:00 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:37:00 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681745820701.png
+2023-04-17 18:37:02 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:37:02 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681745822898.png
+2023-04-17 18:37:02 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:37:02 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:37:03 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:37:03 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:37:03 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:37:04 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681745824394.png
+2023-04-17 18:37:06 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:37:07 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681745827007.png
+2023-04-17 18:37:07 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:37:07 Thread: [main] INFO [tests.BaseTest] Tests ended
+2023-04-17 18:37:32 Thread: [main] INFO [tests.Listener] On finish
+2023-04-17 18:39:42 Thread: [main] INFO [tests.Listener] On start
+2023-04-17 18:39:43 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 18:40:01 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 18:40:01 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:40:01 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:40:13 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:40:13 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:40:14 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681746014392.png
+2023-04-17 18:40:14 Thread: [main] INFO [tests.LoginTest] invalidLoginTest
+2023-04-17 18:40:14 Thread: [main] INFO [pages.LoginPage] start filling with test@mail.com
+2023-04-17 18:40:16 Thread: [main] INFO [pages.LoginPage] start filling with sdf325fhg
+2023-04-17 18:40:16 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 18:40:20 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 18:40:20 Thread: [main] INFO [pages.LoginPage] message: Wrong password or the account is disabled, or does not exist
+2023-04-17 18:40:21 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:40:21 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681746021809.png
+2023-04-17 18:40:21 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:40:21 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:40:22 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:40:23 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:40:23 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:40:24 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681746024061.png
+2023-04-17 18:40:24 Thread: [main] INFO [tests.LoginTest] validLoginTest
+2023-04-17 18:40:24 Thread: [main] INFO [pages.LoginPage] start filling with michal.rzavucki@gmail.com
+2023-04-17 18:40:25 Thread: [main] INFO [pages.LoginPage] start filling with 30203050
+2023-04-17 18:40:25 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 18:40:27 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 18:40:27 Thread: [main] INFO [pages.LoginPage] message: You are now logged in as Michal Rzavucki.
+2023-04-17 18:40:28 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:40:29 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681746029027.png
+2023-04-17 18:40:29 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:40:29 Thread: [main] INFO [tests.BaseTest] Tests ended
+2023-04-17 18:40:54 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 18:41:04 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 18:41:04 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:41:05 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:41:09 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:41:09 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:41:09 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681746069682.png
+2023-04-17 18:41:11 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:41:12 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681746072324.png
+2023-04-17 18:41:12 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:41:12 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:41:13 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:41:13 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:41:13 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:41:14 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681746074357.png
+2023-04-17 18:41:15 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:41:16 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681746076366.png
+2023-04-17 18:41:16 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:41:16 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:41:17 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:41:17 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:41:17 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:41:18 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681746078406.png
+2023-04-17 18:41:20 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:41:20 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681746080478.png
+2023-04-17 18:41:20 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:41:20 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:41:21 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:41:21 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:41:21 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:41:22 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681746082394.png
+2023-04-17 18:41:24 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:41:24 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681746084421.png
+2023-04-17 18:41:24 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:41:24 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:41:25 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:41:25 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:41:25 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:41:26 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681746086104.png
+2023-04-17 18:41:28 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:41:28 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681746088461.png
+2023-04-17 18:41:28 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:41:28 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:41:28 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:41:29 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:41:29 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:41:29 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681746089893.png
+2023-04-17 18:41:32 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:41:32 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681746092674.png
+2023-04-17 18:41:32 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:41:32 Thread: [main] INFO [tests.BaseTest] Tests ended
+2023-04-17 18:41:58 Thread: [main] INFO [tests.Listener] On finish
+2023-04-17 18:45:36 Thread: [main] INFO [tests.Listener] On start
+2023-04-17 18:45:36 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 18:45:51 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 18:45:51 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:45:51 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:45:56 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:45:56 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:45:57 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681746357488.png
+2023-04-17 18:45:57 Thread: [main] INFO [tests.LoginTest] invalidLoginTest
+2023-04-17 18:45:57 Thread: [main] INFO [pages.LoginPage] start filling with test@mail.com
+2023-04-17 18:45:58 Thread: [main] INFO [pages.LoginPage] start filling with sdf325fhg
+2023-04-17 18:45:59 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 18:46:03 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 18:46:03 Thread: [main] INFO [pages.LoginPage] message: Wrong password or the account is disabled, or does not exist
+2023-04-17 18:46:03 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:46:04 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681746364324.png
+2023-04-17 18:46:04 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:46:04 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:46:05 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:46:05 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:46:05 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:46:06 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681746366388.png
+2023-04-17 18:46:06 Thread: [main] INFO [tests.LoginTest] validLoginTest
+2023-04-17 18:46:06 Thread: [main] INFO [pages.LoginPage] start filling with michal.rzavucki@gmail.com
+2023-04-17 18:46:07 Thread: [main] INFO [pages.LoginPage] start filling with 30203050
+2023-04-17 18:46:07 Thread: [main] INFO [pages.LoginPage] start clicking Login Button By.xpath: //button[@name='login']
+2023-04-17 18:46:08 Thread: [main] INFO [pages.LoginPage] Method ends
+2023-04-17 18:46:08 Thread: [main] INFO [pages.LoginPage] message: You are now logged in as Michal Rzavucki.
+2023-04-17 18:46:09 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:46:09 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681746369636.png
+2023-04-17 18:46:09 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:46:09 Thread: [main] INFO [tests.BaseTest] Before test started
+2023-04-17 18:46:14 Thread: [main] INFO [tests.BaseTest] Before test ended
+2023-04-17 18:46:14 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:46:15 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:46:19 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:46:19 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:46:20 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681746380647.png
+2023-04-17 18:46:22 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:46:22 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681746382659.png
+2023-04-17 18:46:22 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:46:22 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:46:23 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:46:23 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:46:23 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:46:24 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681746384661.png
+2023-04-17 18:46:26 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:46:26 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681746386520.png
+2023-04-17 18:46:26 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:46:26 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:46:27 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:46:27 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:46:27 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:46:28 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681746388111.png
+2023-04-17 18:46:30 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:46:30 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681746390416.png
+2023-04-17 18:46:30 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:46:30 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:46:31 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:46:31 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:46:31 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:46:32 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681746392342.png
+2023-04-17 18:46:34 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:46:35 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681746395207.png
+2023-04-17 18:46:35 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:46:35 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:46:36 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:46:36 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:46:36 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:46:37 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681746397207.png
+2023-04-17 18:46:39 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:46:39 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681746399466.png
+2023-04-17 18:46:39 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:46:39 Thread: [main] INFO [tests.BaseTest] Before method deleting cookies
+2023-04-17 18:46:40 Thread: [main] INFO [tests.BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-17 18:46:40 Thread: [main] INFO [tests.Listener] Test start
+2023-04-17 18:46:40 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:46:41 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681746401030.png
+2023-04-17 18:46:43 Thread: [main] INFO [tests.Listener] Start getting screen
+2023-04-17 18:46:43 Thread: [main] INFO [tests.Listener] Screen was saved to src/main/resources/screen_1681746403644.png
+2023-04-17 18:46:43 Thread: [main] INFO [tests.Listener] Test passed
+2023-04-17 18:46:43 Thread: [main] INFO [tests.Listener] On finish
